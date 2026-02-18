@@ -5,17 +5,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=collins-kimathi" alt="collins-kimathi" /></a> </p>
 
-- 🌱 I’m currently learning **backend frameworks**
+🌱 I’m currently learning **backend frameworks**
 
-- 🤝 I’m looking for help with **backend development**
+  🤝 I’m looking for help with **backend development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/collins-kimathi](https://github.com/collins-kimathi)
+  👨‍💻 All of my projects are available at [https://github.com/collins-kimathi](https://github.com/collins-kimathi)
 
-- 📝 I regularly write articles on [tech,sports and gaming](tech,sports and gaming)
+  📝 I regularly write articles on [tech,sports and gaming](tech,sports and gaming)
 
-- 💬 Ask me about **react, javascript,java and python**
+  💬 Ask me about **react, javascript,java and python**
 
-- 📫 How to reach me **collinskimathi49@gmail.com**
+  📫 How to reach me **collinskimathi49@gmail.com**
+  <img src="https://raw.githubusercontent.com/collins-kimathi/collins-kimathi/output/snake.svg" alt="Snake animation" />
+
+###
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
